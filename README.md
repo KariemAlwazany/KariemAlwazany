@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Kariem Abu Aisheh<br>4th year Computer Engineering student at An-Najah National University<br>Backend Developer and Tracking Ai Eng path<br>Done many projects using C, C++, Java, Nodejs, Express.js, Python, PHP, SQL, mySQL db<br>Expected graduation date: January/2025<br>Residence: Palestine-Nablus<br>And that's it 😊<br>Checkout my portofolio: https://www.datacamp.com/portfolio/KarimAbuAisheh<br> Email: Kariemalwazany@gmail.com
+Hi, I'm Kariem Abu Aisheh<br> Computer Engineer with bachelor degree from An-Najah National University<br>Backend Developer and Tracking Ai Eng path<br>Done many projects using C, C++, Java, Nodejs, Express.js, Python, PHP, SQL, mySQL db<br>Residence: Dammam, Saudi Arabia<br>And that's it 😊<br>Checkout my portofolio: https://www.datacamp.com/portfolio/KarimAbuAisheh<br> Email: Kariemalwazany@gmail.com
 
 
 ## 🌐 Socials:
