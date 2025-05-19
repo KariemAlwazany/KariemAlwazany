@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Kariem Abu Aisheh<br> Computer Engineer with bachelor degree from An-Najah National University<br>Backend Developer and Tracking Ai Eng path<br>Done many projects using C, C++, Java, Nodejs, Express.js, Python, PHP, SQL, mySQL db<br>Residence: Dammam, Saudi Arabia<br>And that's it 😊<br>Checkout my portofolio: https://www.datacamp.com/portfolio/KarimAbuAisheh<br> Email: Kariemalwazany@gmail.com
+Hi, I'm Kariem Abu Aisheh<br> Computer Engineer with bachelor degree from An-Najah National University<br>Backend Developer <br>Done many projects using C, C++, Java, Nodejs, Express.js, Flutter, Python, PHP, SQL, MySQL and PostgreSQL Databases<br>Location: Dammam, Saudi Arabia<br>And that's it 😊<br> Email: Kariemabuaisheh@gmail.com
 
 ## 💻 Latest Project:
 [[GradPortal Backend](https://github.com/KariemAlwazany/GradPortal-Backend)]
