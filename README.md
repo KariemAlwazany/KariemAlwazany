@@ -5,7 +5,8 @@ services, with practical knowledge of Docker, PostgreSQL, and MySQL databases. E
 integration, network protocols, and Agile methodologies. Skilled in working with virtualization tools to
 streamline development and testing environments. Eager to contribute to a dynamic tech team by
 delivering innovative, efficient, and high-performance software solutions.<br>
-<br>Location: Dammam, Saudi Arabia<br>And that's it 😊<br> Email: Kariemabuaisheh@gmail.com
+<br>Location: Dammam, Saudi Arabia<br>
+Email: Kariemabuaisheh@gmail.com
 
 ## 💻 Latest Project:
 [[GradPortal Backend](https://github.com/KariemAlwazany/GradPortal-Backend)]
