@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi, I'm Kariem Abu Aisheh<br> Computer Engineer with bachelor degree from An-Najah National University<br>Backend Developer <br>Done many projects using C, C++, Java, Nodejs, Express.js, Flutter, Python, PHP, SQL, MySQL and PostgreSQL Databases<br>Location: Dammam, Saudi Arabia<br>And that's it 😊<br> Email: Kariemabuaisheh@gmail.com
+Hi, I'm Kariem Abu Aisheh<br> Computer Engineer with bachelor's degree from An-Najah National University<br>passionate Backend Developer with hands-on experience in backend and full-stack development
+using Node.js, Spring Boot, and Flutter. Proficient in building robust RESTful APIs and scalable backend
+services, with practical knowledge of Docker, PostgreSQL, and MySQL databases. Experienced in API
+integration, network protocols, and Agile methodologies. Skilled in working with virtualization tools to
+streamline development and testing environments. Eager to contribute to a dynamic tech team by
+delivering innovative, efficient, and high-performance software solutions.<br>
+<br>Location: Dammam, Saudi Arabia<br>And that's it 😊<br> Email: Kariemabuaisheh@gmail.com
 
 ## 💻 Latest Project:
 [[GradPortal Backend](https://github.com/KariemAlwazany/GradPortal-Backend)]
